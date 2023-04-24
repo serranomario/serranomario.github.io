@@ -1,0 +1,58 @@
+/* Navbar */
+.navbar ul{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+/* Headings */
+.studies h1{
+  font-size: 3rem;
+}
+/* Headings */
+
+/* Images */
+.gallery img{
+  width: 270px;
+  height: 360px;
+}
+/* About */
+.about{
+  flex-direction: column;
+}
+.about h2{
+  text-align: center;
+}
+
+.about img{
+  width: 200px;
+	height: 250px;
+	padding: 0px 15px;
+}
+/* Message */
+#message{
+  width: 40%;
+  height: 200px;
+}
+/* submit */
+#submit{
+  font-size: .6rem;
+  padding: 10px 12px;
+}
+
+/* Boxes */
+.box{
+	height: 150px;
+	width: 250px;
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 20px;
+	margin: 10px;
+	padding: 10px;
+}
+.boxh2{
+	color: violet;
+	font-size: 1.1rem;
+	margin-bottom: 20px;
+}
+.box p{
+	color: white;
+	font-size: .6rem;
+}
